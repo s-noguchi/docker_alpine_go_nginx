@@ -3,7 +3,7 @@
 # Dcckerfile Overview
 alpine3.4  
 go1.7  
-nginx1.11.3
+nginx1.11.3  
 fresh (https://github.com/pilu/fresh)
 
 # Usage
